@@ -9,3 +9,7 @@ Extra interaction includes the following keyboard commands:
 'd':          Removes last ball spawned
 'backspace':  Removes all balls
 'space':      Make the balls jump (once per bounce to stop continuous jumping)
+
+Future Work:
+Parameter customisation
+Ball interaction/expand physics simulation
