@@ -13,3 +13,4 @@ Extra interaction includes the following keyboard commands:
 Future Work:
 Parameter customisation
 Ball interaction/expand physics simulation
+Automated & unit testing
